@@ -1,0 +1,27 @@
+h1{
+    background-color: aquamarine;
+    color: blue;
+    padding: 20px;
+    border: 10px;
+    margin: 30px;
+    border-style: dashed;
+}
+h2{
+    color: darkgreen;
+}
+p{
+    background-color: black;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+    margin: 20px;
+    border: 10px;
+    border-style: dotted;
+    border-color: white;
+}
+img{
+    width: 550px;
+    height: 350px;
+    padding: 30px;
+    margin: 10px;
+}
